@@ -3,7 +3,6 @@ from transformers import DistilBertTokenizerFast
 from transformers import TFDistilBertForSequenceClassification
 import streamlit as st
 from transformers import TextClassificationPipeline
-import matplotlib.pyplot as plt
 
 #import part ended
 
